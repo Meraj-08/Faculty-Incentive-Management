@@ -115,6 +115,25 @@ Faculty_Incentive_Management-main/
 
 ---
 
+## 🔮 Future Upgrades
+
+### 👤 User Profile & History
+Faculty members will be able to:
+- View their complete incentive history  
+- Download approved certificates  
+- Update and manage their profile information  
+
+This feature aims to provide transparency and easy access to past records.
+
+### 🔔 Notification System
+A built-in notification system will be introduced to:
+- Send real-time email and in-app alerts for submission status, approvals, or feedback  
+- Remind users about pending actions or deadlines  
+
+These additions will help streamline communication and improve task tracking for both faculty and admins.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
